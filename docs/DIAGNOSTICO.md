@@ -6,6 +6,8 @@ O usuário criou e forneceu https://github.com/matheusbdc/Crivo, público, atual
 
 O remoto origin foi vinculado e o histórico inicial foi integrado à documentação local. As seções anteriores abaixo são registros históricos da entrada e do bloqueio resolvido pelo usuário. Para o estado atual do envio, consultar STATUS.md. O kit visual e o Projeto-Mestre original ainda não foram recebidos.
 
+Envio confirmado à main no commit d7e9df6c27839dc02f60c1fb79c2d1189b06717b, com dois pais: histórico documental local e commit inicial do usuário. A estrutura remota foi conferida e o README foi lido pelo conector GitHub. Links Markdown locais e SHA-256 do PDF preservado foram conferidos antes do envio. Nenhuma automação de publicação foi adicionada.
+
 ## Atualização 0.2 — conexões e bloqueio
 
 O usuário definiu a conta universocrivo@gmail.com como Drive do CRIVO e informou ter conectado. A conexão Universo Crivo está disponível no conector; buscas por CRIVO e Identidade não retornaram arquivos. As buscas iniciais abaixo são históricas, anteriores à definição dessa conta.

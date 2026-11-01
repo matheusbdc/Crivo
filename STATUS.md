@@ -12,7 +12,7 @@ Conta Drive definida pelo usuário: **universocrivo@gmail.com**, conexão Univer
 | Preservar PDF original | Sim | Escopo documental | Não | Sim | 7 páginas e SHA-256 em docs/DIAGNOSTICO.md |
 | Incorporar Projeto-Mestre original v1.3 | Sim | Escopo documental | Não; depende do arquivo | Não | Arquivo não recebido/localizado |
 | Incorporar kit visual original | Sim | Escopo documental | Não; depende do arquivo | Não | ZIP não recebido; busca CRIVO no Drive sem resultado |
-| Disponibilizar no GitHub correto | Sim, matheusbdc/Crivo público | Destino fornecido pelo usuário nesta conversa | Envio em execução | Remoto vinculado, histórico integrado | Visibilidade e proprietário confirmados; verificar envio e leitura remota antes de encerrar |
+| Disponibilizar no GitHub correto | Sim, matheusbdc/Crivo público | Destino fornecido pelo usuário nesta conversa | Não; concluído | Sim, documentação enviada à main | Commit d7e9df6 confirmado no GitHub; README lido pelo conector, estrutura remota conferida e commit inicial preservado |
 
 ## Estado do projeto e decisões
 
@@ -38,7 +38,7 @@ Conta Drive definida pelo usuário: **universocrivo@gmail.com**, conexão Univer
 - [ ] Receber Projeto-Mestre original e kit; inventariar, comparar e incorporar sem sobrescrita.
 - [x] Confirmar conta GitHub de Soneka (matheusbdc) e autorização para criar CRIVO privado.
 - [x] Confirmar repositório Crivo público criado e indicado pelo usuário, vinculando origin e preservando o commit inicial.
-- [ ] Enviar a documentação e verificar leitura e commit remoto.
+- [x] Enviar a documentação e verificar leitura e commit remoto (d7e9df6; README acessível pelo conector GitHub).
 - [ ] Registrar escolha explícita da identidade antes de adotá-la.
 
 Concluir a documentação local não conclui a transferência integral, a implementação do projeto ou a atualização das contas. Ao executar, registrar o resultado; ao verificar, citar evidência; ao receber aprovação, registrar origem e data.
