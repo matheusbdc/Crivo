@@ -12,7 +12,7 @@ Leia PROJETO_MESTRE.md, STATUS.md e CHANGELOG.md antes de trabalhar. Consulte do
 8. Diferencie relato, proposta, aprovação explícita, implementação e verificação com evidência. Não use arquivo existente ou commit como prova de publicação.
 9. Após cada alteração, atualize STATUS.md e CHANGELOG.md com data, escopo, resultado, evidência, pendências e próxima ação. Registre aprovações com origem e data; não as infira.
 10. Preserve os arquivos originais em docs/fontes/ e assets/. Não redesenhe logos para suprir arquivos ausentes. Ao receber o kit, inventarie e compare antes de incorporar; preserve versões e não sobrescreva o Projeto-Mestre original com esta consolidação parcial.
-11. Mantenha histórico local em Git. Um remoto ainda precisa ser identificado e vinculado; não envie a um repositório alheio nem considere o conteúdo acessível ao ChatGPT sem verificar acesso.
+11. Mantenha histórico em Git; origin corresponde a https://github.com/matheusbdc/Crivo, público por escolha do usuário. Antes de incorporar novos materiais do Drive ou kits, confira se podem ficar públicos. Não envie credenciais, dados pessoais ou materiais privados. Não considere o conteúdo acessível ao ChatGPT sem verificar acesso.
 12. Conversas e ferramentas não se sincronizam automaticamente. A retomada exige leitura dos arquivos acessíveis ou envio do pacote de continuidade.
 
 Fonte das regras: docs/fontes/CRIVO_Guia_Integracao_ChatGPT_Codex_v1_3.pdf, pp. 2–6. A organização documental local não equivale à implementação comercial do projeto.

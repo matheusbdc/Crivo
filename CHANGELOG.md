@@ -1,5 +1,14 @@
 # Histórico — CRIVO
 
+## 0.3 — 01/11/2026 — Repositório criado pelo usuário e integração do histórico
+
+- Usuário informou ter criado um repositório público e forneceu https://github.com/matheusbdc/Crivo; essa indicação substitui a preferência anterior por privado.
+- Confirmados proprietário matheusbdc, visibilidade pública, branch main e acesso de escrita.
+- Vinculado origin ao destino indicado. Encontrado apenas README.md com título “Crivo”, no commit inicial dbf3b7d896503dc889e52ecd12031c27fb07d582.
+- Integrado o histórico remoto ao local, preservando o commit inicial e consolidando o README com os links da documentação.
+- Atualizados os documentos de estado e continuidade para remover o bloqueio de criação já resolvido pelo usuário.
+- Kit e Projeto-Mestre original continuam ausentes; identidade v1.3 continua proposta não aprovada.
+
 ## 0.2 — 01/11/2026 — Conexões e tentativa de criação do repositório
 
 - Registrada a conta Drive universocrivo@gmail.com definida pelo usuário; conexão Universo Crivo disponível.

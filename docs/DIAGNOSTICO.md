@@ -1,5 +1,11 @@
 # Diagnóstico de entrada — 01/11/2026
 
+## Atualização 0.3 — destino criado pelo usuário
+
+O usuário criou e forneceu https://github.com/matheusbdc/Crivo, público, atualizando a preferência anterior por privado. Confirmados proprietário (matheusbdc, ID 346608555), acesso de escrita, branch main e visibilidade pública. A árvore inicial continha apenas README.md com título “Crivo”, no commit dbf3b7d896503dc889e52ecd12031c27fb07d582. Não havia automação ou código de publicação nessa árvore.
+
+O remoto origin foi vinculado e o histórico inicial foi integrado à documentação local. As seções anteriores abaixo são registros históricos da entrada e do bloqueio resolvido pelo usuário. Para o estado atual do envio, consultar STATUS.md. O kit visual e o Projeto-Mestre original ainda não foram recebidos.
+
 ## Atualização 0.2 — conexões e bloqueio
 
 O usuário definiu a conta universocrivo@gmail.com como Drive do CRIVO e informou ter conectado. A conexão Universo Crivo está disponível no conector; buscas por CRIVO e Identidade não retornaram arquivos. As buscas iniciais abaixo são históricas, anteriores à definição dessa conta.
