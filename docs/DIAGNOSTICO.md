@@ -1,5 +1,11 @@
 # Diagnóstico de entrada — 01/11/2026
 
+## Atualização 0.2 — conexões e bloqueio
+
+O usuário definiu a conta universocrivo@gmail.com como Drive do CRIVO e informou ter conectado. A conexão Universo Crivo está disponível no conector; buscas por CRIVO e Identidade não retornaram arquivos. As buscas iniciais abaixo são históricas, anteriores à definição dessa conta.
+
+O usuário autorizou criar um repositório privado no GitHub de Soneka. O conector e o CLI autenticado confirmaram matheusbdc, ID 346608555, como perfil dessa conexão. A listagem atual da conta não mostrou CRIVO. A criação de matheusbdc/CRIVO privado via CLI falhou com `GraphQL: Resource not accessible by integration (createRepository)`. Nenhum repositório foi criado ou arquivo enviado, e nenhum remoto foi configurado. A dependência é disponibilizar o repositório privado ou a permissão de criação; o conteúdo documental está preparado localmente.
+
 ## Fonte recebida
 
 **CRIVO — Guia de Integração ChatGPT + Codex**, v1.3, 01/11/2026, 7 páginas A4. Original preservado em [fontes/CRIVO_Guia_Integracao_ChatGPT_Codex_v1_3.pdf](fontes/CRIVO_Guia_Integracao_ChatGPT_Codex_v1_3.pdf).

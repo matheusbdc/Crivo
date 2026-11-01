@@ -1,6 +1,8 @@
 # CRIVO — Estado e checklist
 
-Atualizado em 01/11/2026. Documentação local 0.1; identidade de referência v1.3 **não aprovada**.
+Atualizado em 01/11/2026. Documentação local 0.2; identidade de referência v1.3 **não aprovada**.
+
+Conta Drive definida pelo usuário: **universocrivo@gmail.com**, conexão Universo Crivo disponível. Buscas por CRIVO e Identidade nessa conexão não retornaram arquivos. Criação de **matheusbdc/CRIVO privado** autorizada pelo usuário, mas bloqueada pela permissão da integração GitHub: `Resource not accessible by integration (createRepository)`. O perfil autenticado corresponde ao ID 346608555, login matheusbdc, da conexão chamada Soneka. Nenhum repositório foi criado ou envio realizado.
 
 ## Entrega documental atual
 
@@ -10,7 +12,7 @@ Atualizado em 01/11/2026. Documentação local 0.1; identidade de referência v1
 | Preservar PDF original | Sim | Escopo documental | Não | Sim | 7 páginas e SHA-256 em docs/DIAGNOSTICO.md |
 | Incorporar Projeto-Mestre original v1.3 | Sim | Escopo documental | Não; depende do arquivo | Não | Arquivo não recebido/localizado |
 | Incorporar kit visual original | Sim | Escopo documental | Não; depende do arquivo | Não | ZIP não recebido; busca CRIVO no Drive sem resultado |
-| Disponibilizar no GitHub correto | Previsto | Destino e envio ainda não confirmados | Não | Não | Nenhum CRIVO na lista acessível da conexão principal |
+| Disponibilizar no GitHub correto | Sim, matheusbdc/CRIVO privado | Autorizado pelo usuário nesta conversa | Bloqueado na criação | Não | GitHub recusou createRepository; aguardando repositório privado criado ou permissão adequada |
 
 ## Estado do projeto e decisões
 
@@ -34,7 +36,8 @@ Atualizado em 01/11/2026. Documentação local 0.1; identidade de referência v1
 - [x] Preservar o PDF original e registrar seu hash.
 - [x] Preparar diagnóstico e instruções de retomada.
 - [ ] Receber Projeto-Mestre original e kit; inventariar, comparar e incorporar sem sobrescrita.
-- [ ] Confirmar repositório GitHub correto e vincular/publicar somente no destino autorizado.
+- [x] Confirmar conta GitHub de Soneka (matheusbdc) e autorização para criar CRIVO privado.
+- [ ] Criar repositório privado CRIVO, vincular e enviar a documentação; bloqueado pela permissão createRepository.
 - [ ] Registrar escolha explícita da identidade antes de adotá-la.
 
 Concluir a documentação local não conclui a transferência integral, a implementação do projeto ou a atualização das contas. Ao executar, registrar o resultado; ao verificar, citar evidência; ao receber aprovação, registrar origem e data.

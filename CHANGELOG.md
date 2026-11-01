@@ -1,5 +1,14 @@
 # Histórico — CRIVO
 
+## 0.2 — 01/11/2026 — Conexões e tentativa de criação do repositório
+
+- Registrada a conta Drive universocrivo@gmail.com definida pelo usuário; conexão Universo Crivo disponível.
+- Buscas CRIVO e Identidade nessa conexão retornaram vazias; originais continuam pendentes.
+- Confirmado o perfil GitHub da conexão Soneka: matheusbdc, ID 346608555, tanto pelo conector quanto pelo CLI autenticado.
+- Usuário autorizou criar repositório privado para o CRIVO. A lista de repositórios da conta ainda não contém CRIVO.
+- Tentativa de criação de matheusbdc/CRIVO privado via CLI recusada: `GraphQL: Resource not accessible by integration (createRepository)`. Nenhum repositório foi criado, remoto vinculado ou arquivo enviado.
+- Próxima ação: criar o repositório privado pelo GitHub da conta ou disponibilizar permissão de criação; então conferir visibilidade, vincular e enviar a base existente. A autorização do usuário permanece válida, sem necessidade de repeti-la.
+
 ## 0.1 — 01/11/2026 — Organização documental local
 
 - Lido o guia de integração v1.3 de sete páginas; as duas cópias anexadas têm o mesmo SHA-256.

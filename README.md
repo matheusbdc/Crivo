@@ -2,6 +2,8 @@
 
 Base documental local criada a partir do Guia de Integração ChatGPT + Codex v1.3. O Projeto-Mestre original e o kit visual ainda precisam ser incorporados. Nenhuma identidade visual foi aprovada ou conta alterada.
 
+Drive do projeto: **universocrivo@gmail.com**. Destino GitHub autorizado: **matheusbdc/CRIVO privado**, ainda não criado porque a integração recusou a operação createRepository. O estado atual consta no STATUS.md.
+
 Comece por [PROJETO_MESTRE.md](PROJETO_MESTRE.md), [STATUS.md](STATUS.md) e [CHANGELOG.md](CHANGELOG.md). Agentes devem seguir [AGENTS.md](AGENTS.md).
 
 - [Diagnóstico e fontes](docs/DIAGNOSTICO.md)

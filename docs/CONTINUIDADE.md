@@ -11,7 +11,9 @@
 
 Receber o Projeto-Mestre original v1.3 e o Kit de Identidade Provisória CRIVO. Caso o mestre esteja dentro do ZIP, não exigir envio separado. Listar conteúdo antes de extrair, preservar os arquivos originais e comparar decisões, checklists, textos e referências com esta consolidação parcial. Registrar divergências sem presumir aprovação e incorporar apenas o conteúdo fundamentado. Não reconstruir peças faltantes.
 
-Confirmar o repositório correto antes de vincular um remoto. Se já existir, ler seus arquivos e AGENTS.md, comparar históricos e integrar esta organização sem substituir o projeto existente. Verificar o efeito do envio antes de fazê-lo. Esta etapa não foi realizada.
+O destino autorizado é matheusbdc/CRIVO privado, na conexão GitHub chamada Soneka. A criação foi tentada e recusada por falta de permissão da integração (createRepository). Não há remoto configurado nem envio realizado. Assim que o repositório for criado pelo titular ou houver permissão adequada, verificar proprietário, visibilidade e conteúdo antes de vincular. Se contiver arquivos, ler AGENTS.md e comparar históricos antes de integrar; não sobrescrever conteúdo. Não pedir novamente autorização para a criação privada já aprovada nesta conversa.
+
+Usar a conexão Drive Universo Crivo, universocrivo@gmail.com, para materiais do projeto. A conta foi definida pelo usuário e está disponível no conector. As buscas CRIVO e Identidade não localizaram materiais nesta conferência; não usar a conexão da Casa para armazenar arquivos do CRIVO.
 
 ## Encerramento de cada trabalho
 
