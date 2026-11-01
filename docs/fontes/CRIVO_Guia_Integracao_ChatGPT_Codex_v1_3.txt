@@ -1,0 +1,353 @@
+DOCUMENTO GUIA                                            VERSÃO 1.3 | 01 NOV 2026
+
+
+
+
+                               CRIVO
+                    INTEGRAÇÃO CHATGPT + CODEX
+
+     Guia de transferência, organização e acompanhamento do projeto
+
+
+
+
+   Objetivo
+   Usar esta conversa como espaço de decisões e o Codex como ambiente de
+   execução, com documentos versionados que possam ser consultados e
+   atualizados sem perder o histórico.
+
+
+
+
+        PLANEJAMENTO                   IMPLEMENTAÇÃO                   ACOMPANHAMENTO
+
+
+
+
+ STATUS: referência provisória. Nenhuma conta ou repositório foi alterado por este documento.
+
+
+
+
+                       PARA ENVIAR AO CODEX / DOCUMENTO DE CONTINUIDADE
+   CRIVO                                                                                                            GUIA DE INTEGRAÇÃO • 02/07
+
+
+
+
+01 / VISÃO DO ECOSSISTEMA
+
+
+Como o CRIVO se organiza
+Fluxo de referência: decisões nesta conversa, execução no Codex e arquivos versionados como fonte
+consultável.
+
+
+
+
+                                                                  CRIVO
+                                              Projeto-Mestre • decisões • identidade • conteúdo
+
+
+
+
+      C         ChatGPT                                                                X          Codex
+
+     Planeja, pesquisa, compara versões, registra                                     Organiza arquivos, executa tarefas
+     aprovações e revisa o andamento.                                                 autorizadas, testa e registra o que
+                                                                                      implementou.
+
+
+
+
+                                             GITHUB / REPOSITÓRIO CRIVO
+                                    PROJETO_MESTRE.md • STATUS.md • CHANGELOG.md
+                                                        AGENTS.md • assets/ • docs/
+
+
+
+
+                                       Revisão e atualização nesta conversa
+                    Você solicita a leitura das mudanças acessíveis. Eu consolido o status e reentrego o
+                                                     projeto atualizado.
+
+
+
+
+CRIVO / PROJETO-MESTRE V1.3 / 01 NOV 2026                                                                                                   02
+As conversas não são sincronizadas automaticamente. A atualização exige consulta aos arquivos ou envio do resumo.
+   CRIVO                                                                                                     GUIA DE INTEGRAÇÃO • 03/07
+
+
+
+
+02 / TRANSFERÊNCIA PRÁTICA
+
+
+O que enviar e em qual ordem
+O melhor caminho é transferir os documentos e artes, usando o link da conversa apenas como contexto
+adicional.
+
+
+
+
+                      Reunir os arquivos
+        01            Projeto-Mestre v1.3 e kit visual temporário (logos, comparativo e prévia dos perfis).
+
+
+
+
+                      Enviar ao Codex
+        02            Anexar os arquivos; incluir o link desta conversa somente se desejar contexto suplementar.
+
+
+
+
+                      Estruturar o repositório
+        03            Criar pastas, documentos centrais e instruções. Não mexer nas contas do TikTok e
+                      Instagram.
+
+
+
+                      Manter rastreabilidade
+        04            Após cada mudança, atualizar STATUS.md e CHANGELOG.md, distinguindo proposto,
+                      executado e verificado.
+
+
+
+                      Revisar aqui
+        05            Pedir que eu consulte o repositório acessível ou trazer os arquivos/relatório para consolidar
+                      nova versão.
+
+
+
+
+O que funciona melhor
+
+    ARQUIVOS VERSIONADOS                                                             LINK DE CONVERSA
+
+    Fonte mais estável: documentos, histórico,                                       Útil como contexto, mas não substitui arquivos
+    evidências e material visual com nomes                                           organizados nem se atualiza automaticamente.
+    conhecidos.
+
+
+
+
+CRIVO / PROJETO-MESTRE V1.3 / 01 NOV 2026                                                                                             03
+Documentação central reduz retrabalho e evita copiar conversas inteiras a cada alteração.
+   CRIVO                                                                             GUIA DE INTEGRAÇÃO • 04/07
+
+
+
+
+03 / INSTRUÇÃO PARA EXECUÇÃO
+
+
+Prompt pronto para o Codex
+Copie o conteúdo das páginas 4 e 5 como uma única instrução, juntamente com os anexos do CRIVO.
+
+
+
+
+        PROMPT / PARTE 1 DE 2
+
+
+
+      PROJETO CRIVO — INTEGRAÇÃO E CONTINUIDADE
+      Estou transferindo o Projeto CRIVO para um ambiente de desenvolvimento organizado.
+
+      Utilize os arquivos anexados do Projeto-Mestre e do kit visual como referência inicial. O histórico
+      da conversa, quando fornecido, será material complementar.
+
+      OBJETIVO
+      Estruturar o projeto existente, preservando todas as decisões, planejamentos, checklists,
+      identidades visuais e pendências.
+
+      ESTRUTURA DO REPOSITÓRIO
+             PROJETO_MESTRE.md — visão consolidada e decisões aprovadas.
+
+             STATUS.md — checklist com planejado, aprovado, em andamento, implementado e
+             verificado.
+
+             CHANGELOG.md — histórico de alterações com datas e versões.
+
+             AGENTS.md — instruções permanentes para os agentes.
+
+             assets/ — logotipos, mockups e materiais visuais.
+
+             docs/ — estratégias, roteiros, calendário e especificações.
+
+
+
+
+      Continua na página seguinte com regras de execução e a primeira entrega.
+
+
+
+
+CRIVO / PROJETO-MESTRE V1.3 / 01 NOV 2026                                                                    04
+Texto projetado para transferência de contexto, sem autorização de ações externas.
+   CRIVO                                                                                         GUIA DE INTEGRAÇÃO • 05/07
+
+
+
+
+03 / INSTRUÇÃO PARA EXECUÇÃO
+
+
+Prompt para o Codex — continuação
+Regras obrigatórias, critérios de registro e limites de escopo do primeiro trabalho.
+
+
+
+
+        PROMPT / PARTE 2 DE 2
+
+
+
+      REGRAS OBRIGATÓRIAS
+
+       1      Não reiniciar nem descaracterizar o projeto.
+
+
+       2      Manter CRIVO como marca principal e Soneka como futuro avatar.
+
+
+       3      Preservar o TikTok existente, atualmente @crivomind, e o TikTok Shop ativo conforme
+              informado.
+
+       4      Usar exatamente o mesmo @, nome, bio e identidade no TikTok e Instagram, quando possível.
+
+
+       5      Não considerar propostas como aprovadas sem confirmação explícita.
+
+
+       6      Não alterar contas, publicar conteúdos nem executar mudanças comerciais sem autorização.
+
+
+       7      Registrar cada implementação no checklist e no histórico.
+
+
+       8      Diferenciar o que foi informado pelo usuário do que foi tecnicamente verificado.
+
+
+       9      Manter os arquivos versionados e acessíveis para consulta futura pelo ChatGPT.
+
+
+      10      Não implementar automações ou sistemas complexos nesta primeira etapa.
+
+
+      PRIMEIRA ENTREGA
+      Estrutura organizada, diagnóstico dos arquivos existentes, checklist fiel ao estado atual e
+      instruções de continuidade.
+
+
+           Limite desta tarefa: não alterar TikTok, Instagram, vitrines, publicações ou integrações de contas.
+
+
+
+
+CRIVO / PROJETO-MESTRE V1.3 / 01 NOV 2026                                                                                05
+Os arquivos são o registro permanente. Aprovações e mudanças externas precisam ser explícitas.
+   CRIVO                                                                                    GUIA DE INTEGRAÇÃO • 06/07
+
+
+
+
+04 / GOVERNANÇA E SINCRONIZAÇÃO
+
+
+Como acompanhar o andamento
+Uma conversa no Codex não aparece automaticamente aqui; o registro de progresso precisa ser compartilhado
+ou consultado.
+
+
+
+
+     REGRA DE ATUALIZAÇÃO
+
+
+     Executou? Registre. Verificou? Anexe evidência. Aprovou? Atualize a
+     decisão.
+     Cada versão consolidada deve trazer STATUS, CHANGELOG, pendências e próximos passos.
+
+
+
+
+ESTADO DO PROJETO NO MOMENTO DA TRANSFERÊNCIA
+
+
+        CRIVO                                       Marca definida
+                                                    Confirmado no planejamento
+
+
+
+        TikTok                                      @crivomind
+                                                    Conta existente; Shop ativo informado
+
+
+
+        Instagram                                   Planejado
+                                                    Não confirmado como criado
+
+
+
+        Identidade                                  Opções A / B / C
+                                                    Aguardando escolha e aprovação
+
+
+
+        Codex / GitHub                              Previsto
+                                                    Repositório ainda não confirmado
+
+
+
+
+QUANDO VOCÊ PEDIR UMA ATUALIZAÇÃO
+1. Localizar arquivos acessíveis. 2. Comparar STATUS e CHANGELOG. 3. Reentregar o Projeto-Mestre revisado,
+sem presumir implementações.
+
+
+
+
+CRIVO / PROJETO-MESTRE V1.3 / 01 NOV 2026                                                                           06
+STATUS inicial reflete relatos e decisões do projeto; não é auditoria técnica dos perfis.
+   CRIVO                                                                                           GUIA DE INTEGRAÇÃO • 07/07
+
+
+
+
+05 / ANEXOS E PRÓXIMOS PASSOS
+
+
+Referências visuais do CRIVO
+O material visual é provisório e ainda depende da sua escolha; foi incluído para facilitar o contexto do Codex.
+
+
+
+
+            A / Monograma                                        B / Observatório                    C / Crescente
+
+
+Nenhum logotipo foi aprovado como definitivo. A opção A foi apenas recomendada.
+
+
+
+
+   Mockup provisório dos perfis: ilustração, não captura de tela real.
+
+
+CHECKLIST PARA ENVIAR AGORA AO CODEX
+      Anexar Projeto-Mestre v1.3 e kit visual
+
+      Colar o prompt das páginas 4 e 5
+
+      Pedir somente organização e diagnóstico
+
+      Conferir o STATUS.md antes de retornar aqui
+
+
+
+CRIVO / PROJETO-MESTRE V1.3 / 01 NOV 2026                                                                                  07
+Identidade visual temporária • @ e bios idênticos ainda dependem de aprovação e disponibilidade.
+
