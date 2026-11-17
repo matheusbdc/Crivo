@@ -1,5 +1,15 @@
 # Histórico — CRIVO
 
+## 0.4 — 17/11/2026 — Auditoria: privacidade e consistência
+
+- Escopo: revisão documental solicitada pelo usuário, sem alterar decisões, identidade, contas ou originais em docs/fontes/.
+- Retirados dos documentos atuais o e-mail da conta Drive, o ID numérico da conta GitHub e nomes de conexões de outros projetos, por estarem num repositório público.
+- STATUS.md passa a ser a fonte única do estado do repositório e do Drive; README, PROJETO_MESTRE e CONTINUIDADE apontam para ele em vez de repetir o texto.
+- Corrigidos em DIAGNOSTICO.md os trechos que ainda diziam “sem remoto” e a pendência de destino já concluída; corrigido no STATUS o item que citava repositório privado.
+- Evidência: SHA-256 do PDF conferido novamente (fe4a7930…450c, igual ao registrado); nenhuma ocorrência dos dados retirados nos arquivos atuais.
+- Pendência: os commits anteriores continuam com esses dados no histórico público. Decidir entre reescrever o histórico ou tornar o repositório privado.
+- Próxima ação: inalterada; receber Projeto-Mestre original e kit.
+
 ## 0.3 — 01/11/2026 — Repositório criado pelo usuário e integração do histórico
 
 - Usuário informou ter criado um repositório público e forneceu https://github.com/matheusbdc/Crivo; essa indicação substitui a preferência anterior por privado.
@@ -12,9 +22,9 @@
 
 ## 0.2 — 01/11/2026 — Conexões e tentativa de criação do repositório
 
-- Registrada a conta Drive universocrivo@gmail.com definida pelo usuário; conexão Universo Crivo disponível.
+- Registrada a conta Drive definida pelo usuário (endereço retirado em 0.4); conexão disponível.
 - Buscas CRIVO e Identidade nessa conexão retornaram vazias; originais continuam pendentes.
-- Confirmado o perfil GitHub da conexão Soneka: matheusbdc, ID 346608555, tanto pelo conector quanto pelo CLI autenticado.
+- Confirmado o perfil GitHub da conexão: matheusbdc (ID retirado em 0.4), tanto pelo conector quanto pelo CLI autenticado.
 - Usuário autorizou criar repositório privado para o CRIVO. A lista de repositórios da conta ainda não contém CRIVO.
 - Tentativa de criação de matheusbdc/CRIVO privado via CLI recusada: `GraphQL: Resource not accessible by integration (createRepository)`. Nenhum repositório foi criado, remoto vinculado ou arquivo enviado.
 - Próxima ação: criar o repositório privado pelo GitHub da conta ou disponibilizar permissão de criação; então conferir visibilidade, vincular e enviar a base existente. A autorização do usuário permanece válida, sem necessidade de repeti-la.

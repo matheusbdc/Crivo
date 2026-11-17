@@ -11,9 +11,9 @@
 
 Receber o Projeto-Mestre original v1.3 e o Kit de Identidade Provisória CRIVO. Caso o mestre esteja dentro do ZIP, não exigir envio separado. Listar conteúdo antes de extrair, preservar os arquivos originais e comparar decisões, checklists, textos e referências com esta consolidação parcial. Registrar divergências sem presumir aprovação e incorporar apenas o conteúdo fundamentado. Não reconstruir peças faltantes.
 
-O destino atual é **https://github.com/matheusbdc/Crivo**, público e criado pelo usuário após o bloqueio da criação via integração. A indicação explícita desse repositório atualiza a preferência anterior por privado. O remoto origin está vinculado e o commit inicial do usuário foi preservado. Consultar STATUS.md para o estado do envio. Antes de incorporar originais novos do Drive ou do kit ao repositório público, conferir seu conteúdo e preservar informações privadas. Antes de mudanças futuras, obter o estado remoto atual e ler AGENTS.md; nunca sobrescrever alterações de terceiros.
+Destino e estado do envio: ver STATUS.md. O repositório é público. Antes de incorporar originais novos do Drive ou do kit ao repositório público, conferir seu conteúdo e preservar informações privadas. Antes de mudanças futuras, obter o estado remoto atual e ler AGENTS.md; nunca sobrescrever alterações de terceiros.
 
-Usar a conexão Drive Universo Crivo, universocrivo@gmail.com, para materiais do projeto. A conta foi definida pelo usuário e está disponível no conector. As buscas CRIVO e Identidade não localizaram materiais nesta conferência; não usar a conexão da Casa para armazenar arquivos do CRIVO.
+Usar somente a conta Drive do projeto definida pelo usuário (identificada fora do repositório) para materiais do CRIVO, nunca contas de outros projetos. As buscas CRIVO e Identidade não localizaram materiais nesta conferência.
 
 ## Encerramento de cada trabalho
 

@@ -2,7 +2,7 @@
 
 Base documental local criada a partir do Guia de Integração ChatGPT + Codex v1.3. O Projeto-Mestre original e o kit visual ainda precisam ser incorporados. Nenhuma identidade visual foi aprovada ou conta alterada.
 
-Repositório: **[matheusbdc/Crivo](https://github.com/matheusbdc/Crivo)**, público, criado pelo usuário. O commit inicial com o título “Crivo” foi preservado no histórico. Drive do projeto: **universocrivo@gmail.com**. O estado atual consta no STATUS.md.
+Repositório: **[matheusbdc/Crivo](https://github.com/matheusbdc/Crivo)**, público. O estado atual (repositório, Drive e pendências) fica somente em [STATUS.md](STATUS.md).
 
 Comece por [PROJETO_MESTRE.md](PROJETO_MESTRE.md), [STATUS.md](STATUS.md) e [CHANGELOG.md](CHANGELOG.md). Agentes devem seguir [AGENTS.md](AGENTS.md).
 

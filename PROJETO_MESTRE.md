@@ -4,7 +4,7 @@ Consolidação documental 0.3, em 01/11/2026. Referência: guia de integração 
 
 ## Objetivo e funcionamento
 
-Organizar o projeto existente e preservar decisões, planejamento, identidade, checklists e pendências. ChatGPT apoia planejamento, pesquisa, comparação e decisões; Codex organiza arquivos, executa tarefas autorizadas e verifica resultados; Git mantém histórico. O usuário definiu universocrivo@gmail.com como conta Drive do projeto. Após o bloqueio da criação via integração, criou e indicou **https://github.com/matheusbdc/Crivo**, público por sua escolha mais recente. Proprietário, acesso de escrita e visibilidade foram verificados; o remoto origin está vinculado. A consulta entre ambientes precisa ser feita explicitamente.
+Organizar o projeto existente e preservar decisões, planejamento, identidade, checklists e pendências. ChatGPT apoia planejamento, pesquisa, comparação e decisões; Codex organiza arquivos, executa tarefas autorizadas e verifica resultados; Git mantém histórico. Repositório, Drive e estado das conexões: ver [STATUS.md](STATUS.md). A consulta entre ambientes precisa ser feita explicitamente.
 
 ## Decisões registradas na fonte
 
