@@ -1,8 +1,12 @@
 # CRIVO — Estado e checklist
 
-Atualizado em 01/11/2026. Documentação 0.3; identidade de referência v1.3 **não aprovada**.
+Atualizado em 17/11/2026. Documentação 0.4; identidade de referência v1.3 **não aprovada**.
 
-Conta Drive definida pelo usuário: **universocrivo@gmail.com**, conexão Universo Crivo disponível. Buscas por CRIVO e Identidade nessa conexão não retornaram arquivos. Após o bloqueio de criação pela integração, o usuário criou e indicou **https://github.com/matheusbdc/Crivo**, público. Essa informação atualiza a preferência anterior por privado. Proprietário matheusbdc (ID 346608555), visibilidade pública e permissão de escrita foram verificados. O remoto origin está vinculado; o commit inicial do usuário foi preservado.
+Esta é a fonte única do estado atual; os demais documentos apontam para cá.
+
+- **Repositório:** https://github.com/matheusbdc/Crivo, público por escolha do usuário; origin vinculado e commit inicial preservado.
+- **Drive:** conta Drive do projeto (identificada fora do repositório público); buscas por CRIVO e Identidade não retornaram arquivos.
+- **Privacidade:** e-mails, IDs de conta e nomes de conexões não são registrados no repositório público (ver CHANGELOG 0.4).
 
 ## Entrega documental atual
 
@@ -36,9 +40,11 @@ Conta Drive definida pelo usuário: **universocrivo@gmail.com**, conexão Univer
 - [x] Preservar o PDF original e registrar seu hash.
 - [x] Preparar diagnóstico e instruções de retomada.
 - [ ] Receber Projeto-Mestre original e kit; inventariar, comparar e incorporar sem sobrescrita.
-- [x] Confirmar conta GitHub de Soneka (matheusbdc) e autorização para criar CRIVO privado.
+- [x] Confirmar conta GitHub (matheusbdc) e destino do repositório; o usuário optou depois por repositório público.
 - [x] Confirmar repositório Crivo público criado e indicado pelo usuário, vinculando origin e preservando o commit inicial.
 - [x] Enviar a documentação e verificar leitura e commit remoto (d7e9df6; README acessível pelo conector GitHub).
 - [ ] Registrar escolha explícita da identidade antes de adotá-la.
+- [x] Retirar dados pessoais e de contas dos documentos atuais e corrigir trechos desatualizados (0.4).
+- [ ] Decidir se o histórico Git antigo, que ainda contém esses dados, deve ser reescrito ou o repositório tornado privado.
 
 Concluir a documentação local não conclui a transferência integral, a implementação do projeto ou a atualização das contas. Ao executar, registrar o resultado; ao verificar, citar evidência; ao receber aprovação, registrar origem e data.
